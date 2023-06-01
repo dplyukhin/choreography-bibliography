@@ -12,6 +12,8 @@ For discussion, join the `#choreographic-programming` channel of the [Multiparty
   ([www](https://www.cs.unibo.it/projects/jolie/aiocj.html))
 - Chor: Choreographic programming for Jolie
   ([www](http://www.chor-lang.org/))
+- HasChor: Choreographic programming in Haskell
+  ([www](https://github.com/gshen42/HasChor))
 
 # Blogs and Tutorials
 
