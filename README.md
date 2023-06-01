@@ -27,6 +27,33 @@ TODO!
 
 # Papers
 
+## 2023
+
+- **HasChor: Functional Choreographic Programming for All (Functional Pearl)** (preprint)
+  Gan Shen, Shun Kashiwa, and Lindsey Kuper
+  ([arXiv](https://doi.org/10.48550/arXiv.2303.00924))
+
+- **Now It Compiles! Certified Automatic Repair of Uncompilable Protocols** (preprint)
+  Luís Cruz-Filipe and Fabrizio Montesi
+  ([arXiv](https://doi.org/10.48550/arXiv.2302.14622))
+
+- **Certified Compilation of Choreographies with hacc** (preprint)
+  Luís Cruz-Filipe, Lovro Lugovic, and Fabrizio Montesi
+  ([arXiv](https://doi.org/10.48550/arXiv.2303.03972))
+
+- **Real-World Choreographic Programming: An Experience Report** (preprint)
+  Lovro Lugovic and Fabrizio Montesi
+  ([arXiv](https://doi.org/10.48550/arXiv.2303.03983))
+
+- **Alice or Bob?: Process Polymorphism in Choreographies** (preprint)
+  Eva Graversen, Andrew K. Hirsch, and Fabrizio Montesi
+  ([arXiv](https://doi.org/10.48550/arXiv.2303.04678))
+  
+- **Reasoning about Choreographic Programs** (preprint)
+  Luís Cruz-Filipe, Eva Graversen, Fabrizio Montesi, and Marco Peressotti
+  ([arXiv](https://doi.org/10.48550/arXiv.2304.14539))
+  
+
 ## 2022
 
 - **Formal Choreographic Languages** (COORDINATION 2022)
