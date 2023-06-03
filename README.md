@@ -37,7 +37,7 @@ TODO!
   Luís Cruz-Filipe and Fabrizio Montesi
   ([arXiv](https://doi.org/10.48550/arXiv.2302.14622))
 
-- **Certified Compilation of Choreographies with hacc** (preprint)
+- **Certified Compilation of Choreographies with hacc** (accepted to FORTE 2023)
   Luís Cruz-Filipe, Lovro Lugovic, and Fabrizio Montesi
   ([arXiv](https://doi.org/10.48550/arXiv.2303.03972))
 
@@ -111,6 +111,10 @@ TODO!
   ([doi](https://doi.org/10.1007/978-3-030-31175-9_8))
 
 ## 2018
+
+- **Communications in choreographies, revisited** (SAC 2018)
+  Luís Cruz-Filipe, Fabrizio Montesi, and Marco Peressotti
+  ([doi](https://doi.org/10.1145/3167132.3167267))
 
 - **Multiparty Classical Choreographies** (LOPSTR 2018)
   Marco Carbone, Luís Cruz-Filipe, Fabrizio Montesi, and Agata Murawska
