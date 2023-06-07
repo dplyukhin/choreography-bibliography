@@ -29,6 +29,17 @@ TODO!
 
 ## 2023
 
+- **Modular Compilation for Higher-order Functional  
+Choreographies** (accepted to ECOOP)
+  Eva Graversen, Luís Cruz-Filipe, Fabrizio Montesi, Marco Peressotti, and Lovro Lugovic
+
+- **Keep me out of the loop: a more flexible choreographic projection** (accepted to LPAR)
+  Luís Cruz-Filipe, Robert Rasmussen, and Fabrizio Montesi
+
+- **A Formal Theory of Choreographic Programming** (Journal of Automated Reasoning)
+  Luís Cruz-Filipe, Fabrizio Montesi, and Marco Peressotti
+  ([doi](https://doi.org/10.1007/s10817-023-09665-3))
+  
 - **HasChor: Functional Choreographic Programming for All (Functional Pearl)** (preprint)
   Gan Shen, Shun Kashiwa, and Lindsey Kuper
   ([arXiv](https://doi.org/10.48550/arXiv.2303.00924))
