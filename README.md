@@ -31,7 +31,7 @@ TODO!
 
 - **Modular Compilation for Higher-order Functional  
 Choreographies** (accepted to ECOOP)
-  Eva Graversen, Luís Cruz-Filipe, Fabrizio Montesi, Marco Peressotti, and Lovro Lugovic
+  Eva Graversen, Luís Cruz-Filipe, Fabrizio Montesi, Marco Peressotti, and Lovro Lugović
 
 - **Keep me out of the loop: a more flexible choreographic projection** (accepted to LPAR)
   Luís Cruz-Filipe, Robert Rasmussen, and Fabrizio Montesi
@@ -49,11 +49,11 @@ Choreographies** (accepted to ECOOP)
   ([arXiv](https://doi.org/10.48550/arXiv.2302.14622))
 
 - **Certified Compilation of Choreographies with hacc** (accepted to FORTE 2023)
-  Luís Cruz-Filipe, Lovro Lugovic, and Fabrizio Montesi
+  Luís Cruz-Filipe, Lovro Lugović, and Fabrizio Montesi
   ([arXiv](https://doi.org/10.48550/arXiv.2303.03972))
 
 - **Real-World Choreographic Programming: An Experience Report** (preprint)
-  Lovro Lugovic and Fabrizio Montesi
+  Lovro Lugović and Fabrizio Montesi
   ([arXiv](https://doi.org/10.48550/arXiv.2303.03983))
 
 - **Alice or Bob?: Process Polymorphism in Choreographies** (preprint)
@@ -76,7 +76,7 @@ Choreographies** (accepted to ECOOP)
   ([doi](https://doi.org/10.1007/978-3-031-19849-6_13))
 
 - **Functional Choreographic Programming** (ICTAC 2022)
-  Luís Cruz-Filipe, Eva Graversen, Lovro Lugovic, Fabrizio Montesi, and Marco Peressotti
+  Luís Cruz-Filipe, Eva Graversen, Lovro Lugović, Fabrizio Montesi, and Marco Peressotti
   ([doi](https://doi.org/10.1007/978-3-031-17715-6_15))
 
 - **Pirouette: Higher-Order Typed Functional Choreographies** (POPL 2022)
