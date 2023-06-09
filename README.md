@@ -29,7 +29,7 @@ TODO!
 
 ## 2023
 
-- **Modular Compilation for Higher-order Functional  
+- **Modular Compilation for Higher-order Functional
 Choreographies** (accepted to ECOOP)
   Eva Graversen, Luís Cruz-Filipe, Fabrizio Montesi, Marco Peressotti, and Lovro Lugović
 
@@ -39,7 +39,7 @@ Choreographies** (accepted to ECOOP)
 - **A Formal Theory of Choreographic Programming** (Journal of Automated Reasoning)
   Luís Cruz-Filipe, Fabrizio Montesi, and Marco Peressotti
   ([doi](https://doi.org/10.1007/s10817-023-09665-3))
-  
+
 - **HasChor: Functional Choreographic Programming for All (Functional Pearl)** (preprint)
   Gan Shen, Shun Kashiwa, and Lindsey Kuper
   ([arXiv](https://doi.org/10.48550/arXiv.2303.00924))
@@ -59,11 +59,11 @@ Choreographies** (accepted to ECOOP)
 - **Alice or Bob?: Process Polymorphism in Choreographies** (preprint)
   Eva Graversen, Andrew K. Hirsch, and Fabrizio Montesi
   ([arXiv](https://doi.org/10.48550/arXiv.2303.04678))
-  
+
 - **Reasoning about Choreographic Programs** (preprint)
   Luís Cruz-Filipe, Eva Graversen, Fabrizio Montesi, and Marco Peressotti
   ([arXiv](https://doi.org/10.48550/arXiv.2304.14539))
-  
+
 
 ## 2022
 
@@ -150,7 +150,7 @@ Choreographies** (accepted to ECOOP)
   ([doi](https://doi.org/10.1145/3019612.3019901))
 
 - **On Asynchrony and Choreographies** (EPTCS 2017)
-  Luís Cruz-Filipe and Fabrizio Montesi 
+  Luís Cruz-Filipe and Fabrizio Montesi
   ([doi](https://doi.org/10.4204/EPTCS.261.8))
 
 - **Procedural Choreographic Programming** (FORTE 2017)
@@ -164,7 +164,7 @@ Choreographies** (accepted to ECOOP)
 ## 2016
 
 - **A Core Model for Choreographic Programming** (FACS 2016)
-  Luís Cruz-Filipe and Fabrizio Montesi 
+  Luís Cruz-Filipe and Fabrizio Montesi
   ([doi](https://doi.org/10.1007/978-3-319-57666-4_3))
 
 - **Choreographies in Practice** (FORTE 2016)
@@ -202,7 +202,7 @@ Choreographies** (accepted to ECOOP)
   ([doi](https://doi.org/10.1007/978-3-642-40184-8_30))
 
 - **Amending Choreographies** (WWV 2013)
-  Ivan Lanese, Fabrizio Montesi, and Gianluigi Zavattaro 
+  Ivan Lanese, Fabrizio Montesi, and Gianluigi Zavattaro
   ([doi](https://doi.org/10.4204/EPTCS.123.5))
 
 - **Deadlock-Freedom-by-Design: Multiparty Asynchronous Global Programming** (POPL 2013)
@@ -224,4 +224,3 @@ Choreographies** (accepted to ECOOP)
 - **Bridging the Gap between Interaction- and Process-Oriented Choreographies** (SEFM 2008)
   Ivan Lanese, Claudio Guidi, Fabrizio Montesi, and Gianluigi Zavattaro
   ([doi](https://doi.org/10.1109/SEFM.2008.11))
-
